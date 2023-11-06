@@ -36,8 +36,8 @@ const CarouselHome = () => {
       <img 
       className='d block w-100'
       style={{maxHeight: "500px", objectFit: 'cover'}}
-      src="https://images.pexels.com/photos/16129703/pexels-photo-16129703/free-photo-of-hombre-escritorio-trabajando-sentado.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-      " alt="slide3" />
+      src="https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+      alt="slide3" />
       <Carousel.Caption>
         <h3>Somos el mejor equipo de Aplicaciones Agiles</h3>
         <p>
